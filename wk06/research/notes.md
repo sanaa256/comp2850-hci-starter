@@ -2,7 +2,7 @@
 
 ## Participant A
 **Date**: [2025-12-04 10:29]
-**Context**: partially sighted, SR and keyboard shortcut user
+**Context**: SR and keyboard shortcut user, partially sighted
 **Consent**: ✅ Confirmed in writing
 **Duration**: ~40 mins
 
@@ -26,7 +26,7 @@
 
 **Observations**: readability issues waste time and cause unneccessary stress
 
-**Themes**: `item size`, `SR compatibility`, `voice I/O`*
+**Themes**: `item size`, `SR compatibility`, `voice I/O`
 
 ---
 
@@ -37,7 +37,7 @@
 
 **Observations**: lack of readability and of clear confirmation mechanisms causes organisational slip-ups and stress, defeating purpose of the app
 
-**Themes**: `item size`, `contrast`, `label clarity`, `notifications`, `confirmation`, 
+**Themes**: `item size`, `contrast`, `label clarity`, `notifications`, `confirmation`
 
 ---
 
@@ -49,7 +49,7 @@
 
 **Observations**: poorly developed keyboard and touch gesture mechanisms waste time and cause unneccessary stress
 
-**Themes**: `item size`, `contrast`, `customisability`, `keyboard`, 
+**Themes**: `item size`, `contrast`, `customisability`, `keyboard`
 
 ---
 
@@ -65,7 +65,7 @@
 ### Q6: If you could add one feature to make task management less stressful, what would it be?
 **Response**: If I could add any feature, I’d love a more intuitive voice command system. Something where I could quickly say, ‘Add a family event for Wednesday at 3pm’ or ‘Remind me to call Sarah tomorrow’ without needing to type or fumble through menus. It would save so much time, especially when my hands are full or when I’m on the move. Pairing that with a system that reads back tasks for confirmation would make it even better—kind of like having a personal assistant in my pocket. 
 
-**Observations**: voice commands simplify interactions and save time
+**Observations**: voice commands and confirmation simplify interactions, reduce anxiety, and save time
 
 **Themes**: `voice I/O`, `SR compatibility`, `confirmation`
 
@@ -92,7 +92,7 @@ Oh, sure! I think being able to set different levels of urgency for notification
 
 ## Participant B
 **Date**: [2025-12-04 11:45]
-**Context**: partially-sighted, some hearing issues, SR and keyboard shortcut user
+**Context**: SR and keyboard shortcut user, partially-sighted, some hearing issues
 **Consent**: ✅ Confirmed in writing
 **Duration**: ~20 mins
 
@@ -123,7 +123,7 @@ Oh, sure! I think being able to set different levels of urgency for notification
 
 **Response to follow-up -- how did that make you feel?**: It made me feel quite stressed and disappointed, to be honest. Stressful because I had to rush to fix the situation, and disappointed because I really try to stay on top of things, especially when it comes to my kids. It also made me question the app’s reliability, which is frustrating when I depend on it so much. Moments like that remind me how much I value accuracy and dependable alerts in any task management tool.
 
-**Observations**: lack of readability and of clear confirmation mechanisms causes organisational slip-ups and stress, defeating purpose of the app
+**Observations**: lack of readability and of clear confirmation mechanisms causes organisational slip-ups and stress, defeating purpose of the app -- had there been a confirmation message specifying the date the task had been noted for, this could have been avoided
 
 **Themes**: `confirmation`, `notifications`, `text size`, `contrast`
 
