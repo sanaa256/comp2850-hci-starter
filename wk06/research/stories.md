@@ -22,7 +22,7 @@
 **Underlying need**: Because excessive squinting and coming too close to the screen cause eye strain and distress, and I could also misread a task
 
 **Evidence**: Participant A (notes line ), Participant B (notes line )
-**Inclusion risk**: 
+**Inclusion risk**:
 **Type**: Job story
 **WCAG**: 1.4.4 Resize Text (AA)
 
