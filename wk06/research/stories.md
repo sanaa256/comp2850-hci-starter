@@ -2,7 +2,7 @@
 
 ---
 
-## Story S1: Confirmation feedback
+## Story 1: Confirmation feedback
 **Situation**: When I submit a form (add/edit/delete task)
 **Motivation**: I want immediate, explicit, and informative confirmation that the action has succeeded
 **Outcome**: So I can trust the interface without refreshing to verify
@@ -15,7 +15,7 @@
 
 ---
 
-## Story S2: Screenreader compatibility
+## Story 2: Screenreader compatibility
 **Situation**: When I'm navigating my tasks (reading/adding/editing/deleting/filtering/switching pages)
 **Motivation**: I want the screen reader to clearly announce all the relevant information in a logical, followable order
 **Outcome**: So I can navigate correctly and efficiently without making any mistakes
@@ -28,7 +28,7 @@
 
 ---
 
-## Story S3: Keyboard interface operability
+## Story 3: Keyboard interface operability
 **Situation**: When I'm navigating my tasks (reading/adding/editing/deleting/filtering/switching pages).
 **Motivation**: I want to be able to easily perform these operations using a keyboard interface.
 **Outcome**: So I can navigate the screen without a mouse or touchpad.
@@ -41,7 +41,7 @@
 
 ---
 
-## Story S4: High-contrast
+## Story 4: High-contrast
 **Situation**: When I'm navigating my tasks (reading/adding/editing/deleting/filtering/switching pages).
 **Motivation**: I want the page elements (text, icons, etc.) to have a high enough contrast with the background.
 **Outcome**: So I can clearly see them without squinting/coming too close to the screen.

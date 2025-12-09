@@ -13,9 +13,9 @@ Evaluate task manager usability and accessibility through structured pilots. Dat
 
 ## Consent script
 
-Thank you for participating in my HCI evaluation. There will be 4 scenarios to work through, and it will take around 15-20 minutes. I'm testing the task management interface, not you -- there are no right or wrong answers. 
+Thank you for participating in my HCI evaluation. There will be 5 scenarios to work through, and it will take around 15-20 minutes. I'm testing the task management interface, not you -- there are no right or wrong answers. 
 
-I will collect data about the current time, the time you take to complete tasks, where you click, and my observations of your experience. I will not collect any personally identifying information -- you will be under a pseudonym (e.g. P1) rather than your actual name. Any screenshots or notes I take will be removed of personally identifying information. 
+I will collect data about the current time, the time you take to complete tasks, where you click, any comments you make, and my observations of your experience. I will not collect any personally identifying information -- you will be under a pseudonym (e.g. P1) rather than your actual name. Any screenshots or notes I take will be removed of personally identifying information. 
 
 This data will be stored locally on a personal, private Github repository (meaning no public access). The only ones who will have access to it are me, you, and the teaching staff marking the project.
 
@@ -35,7 +35,7 @@ Do you consent to participate?
    document.cookie = "sid=P1_7a9f; path=/";  // P1 = Participant 1, random suffix
 
 ### Orientation
- You'll complete 4 tasks with a task manager. I will time you and take notes. Think aloud, especially if you're struggling with something. If you feel you are unable to complete the task and would like to move on, let me know.
+ You'll complete 5 tasks with a task manager. I will time you and take notes. Think aloud, especially if you're struggling with something. If you feel you are unable to complete the task and would like to move on, let me know.
 
  ### For each task
  1. Read task scenario

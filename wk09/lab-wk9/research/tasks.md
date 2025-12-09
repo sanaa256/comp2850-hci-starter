@@ -13,8 +13,8 @@
 - Message confirming successful addition shown/read by SR
 - Keyboard focus remains on the 'Add New Task' input bar
 
-**Target time**: my time = 18s (no-JS), so 36-40s
-**Linked to**: Story #1,2,3,4
+**Target time**: measured on stopwatch: my time = 18s (no-JS), so expected = 36-40s
+**Linked to**: stories 1-4
 
 ---
 
@@ -26,13 +26,12 @@
 2. Cancel the edit
 3. Confirm that the task title has stayed the same
 
-**Success criteria**:
-- Upon clicking 'Edit', task moves from view mode to edit mode
-- Upon clicking 'Cancel', task moves from edit mode to view mode
+**Success criteria**:            
+- Both announced by SR if using one
 - No update confirmation message
 
 **Target time**: 
-**Linked to**: Story #2,3,4
+**Linked to**: stories 2-4
 
 ---
 
@@ -40,18 +39,16 @@
 **Scenario**: You realised the quiz was actually for COMP2860.
 
 **Action**:
-1. Update the name of the task you just added to: "2860 Quiz 5" (only change 2870 --> 2860)
+1. Update the name of the task you just added to: "2860 Quiz 5" (only change 2870 to 2860)
 2. Confirm the task appears in the list under its updated name
 
 **Success criteria**:
-- Upon clicking 'Edit', task moves from view mode to edit mode
-- Upon clicking 'Save', task moves from edit mode to view mode
-- Form is submitted
+- Both announced by SR if using one
 - Updated task appears immediately with HTMX or after reload with no-JS
 - Message confirming successful update shown/read by SR
 
 **Target time**: 
-**Linked to**: Story #1,2,3,4
+**Linked to**: stories 1-4
 
 ---
 
@@ -68,30 +65,30 @@
 - Message shown/read by SR, specifying input and number of relevant items found
 - Upon clicking 'Delete', task is removed. If JS-enabled, a confirmation request is first shown/read by SR.
 
-**Target time**: my time = 13s (no-JS), so 26-30s
+**Target time**: my time = 13s (no-JS), so expected = 26-30s
 **Linked to**: Story #1,2,3,4
 
 ---
 
-## Task 5: Navigate between pages
-**Scenario**: 
+## Task 5: Navigate pages
+**Scenario**: Add tasks until there are 11. Dummy tasks: clean kitchen, clean bathroom, buy bread, buy eggs, buy milk, buy gift.
+Navigate to page 2.
 
 **Action**:
-1. 
-2. 
-3. 
+1. Navigate to page 2.                  
+2. Delete the task.
+3. Confirm the task has been removed from the list.
 
 **Success criteria**:
-- 
-- 
+- Page loads
+- Page number is shown/announced
 - 
 
 **Target time**: 
-**Linked to**: Story #
-
+**Linked to**: Story #1,2,3,4
 
 ## Metrics per Task
-
+---
 For each task, record:
 - **Time-on-task** (num seconds from start to completion)
 - **Success** (1 = completed, 0 = abandoned)
